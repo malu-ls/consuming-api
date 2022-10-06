@@ -1,0 +1,12 @@
+{
+  "name": "consuming-api",
+  "version": "1.0.0",
+  "description": "Criar uma API\r - [] Iniciar o projeto 'npm init -y'\r - [] Instalar as dependências 'npm i express nodemon cors axios'\r - [] Criar uma rota para acessar a API\r - [] Servir a API\r - [] Habilitar o CORS\r - [] Habilitar o nodemon para reinicar o server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
